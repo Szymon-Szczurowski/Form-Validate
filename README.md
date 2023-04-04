@@ -1,3 +1,3 @@
 # Form-Validate
 
-https://szymon-szczurowski.github.io/Form-Validate/
+[Form Validate](https://szymonszczurowski.github.io/Form-Validate/)
